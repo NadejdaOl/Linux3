@@ -1,0 +1,13 @@
+   0 pwd
+   1 date >> /root/newfile.txt
+   2 cat /root/newfile.txt
+   3 df -h >> /root/newfile.txt
+   4 cat /root/newfile.txt
+   5 history 5 >> /root/newfile.txt
+   6 cat /root/newfile.txt
+   7 cat /proc/cpuinfo | grep 'vendor_id' >> /root/newfile.txt
+   8 cat /root/newfile.txt
+   9 vi /root/newfile.txt
+  10 cat /root/newfile.txt
+  11 history
+  12 history > history_03.txt
